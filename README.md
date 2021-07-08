@@ -1,5 +1,8 @@
 # wwdc2021
 Maya's winning submission for WWDC21 Swift Student Challenge
+Selected as 1 of 350 winners from “35 different countries and regions” to attend Apple’s 2021 Worldwide Developers Conference after “demonstrating [my] coding and problem-solving skills by submitting an original Swift playground to earn a spot”(Apple). My submission revolved around a technical representation of myself as a chatbot named "M." Using swift, I coded M to encourage the user to pursue STEM through personal interaction along with the telling of my unconventional STEM story, where I combined my love of politics and computer science to create social change.
+
+
 
 In my Swift playground, the primary technology I used is UIKit. UIKit does quite a few jobs in my Swift playground. 
 
